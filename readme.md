@@ -5,12 +5,12 @@ First make a virtual enviroment:
 ```bash
 py -m venv venv
 ```
-and acitvate it
+and activate it
 
 ```bash
 venv\\Scripts\\activate.bat
 ```
-after that isntall the modules
+after that install the modules
 ```bash
 pip install -r requirements.txt
 ```
